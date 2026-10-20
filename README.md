@@ -1,7 +1,6 @@
 B站链接：
 【关于第三方抖音相关软件停止维护与正式下架公告】 
 https://www.bilibili.com/video/BV1tGJR6HE8A/?share_source=copy_web&vd_source=7b2eb7c39eb66ea05929d0f557a44ec3
-
 关于第三方抖音相关软件停止维护、下架及后续相关说明
 
 各位用户、各位整合包UP主、各位相关站点负责人：
